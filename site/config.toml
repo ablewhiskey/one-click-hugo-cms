@@ -1,6 +1,4 @@
 baseurl = "/"
 languageCode = "en-us"
 title = "Homepage"
-backend:
-  name: github
-  repo: ablewhiskey/one-click-hugo-cms
+
